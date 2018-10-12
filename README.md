@@ -2,7 +2,7 @@ this project is to test git !
 # README #
 
 ## 项目说明：
-可乐二期项目，该项目主要是重构可乐一期项目，[后端地址]，[代码地址]
+可乐二期项目，该项目主要是重构可乐一期项目
 重构主要涉及：
 1. controller 抽象
 2. service 抽象
@@ -105,8 +105,6 @@ See [CHANGELOG.md]
 
 
 [CHANGELOG.md]: CHANGELOG.md
-[后端地址]: https://cocacola.spiderdt.com/#/login
-[代码地址]: https://bitbucket.org/spiderdata/cocacola-api-v2
 [SpringMVC]: https://projects.spring.io/spring-framework/
 [spring ehcache]: http://www.ehcache.org/
 [gradle]: https://gradle.org/
